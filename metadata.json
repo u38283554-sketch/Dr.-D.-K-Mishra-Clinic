@@ -1,0 +1,6 @@
+{
+  "name": "Dr. D. K. Mishra Clinic",
+  "description": "Visit Dr. D. K. Mishra Clinic in Singh More, Hatia, Ranchi. View verified clinic information, contact details, location, and appointment options.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
